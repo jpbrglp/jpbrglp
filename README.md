@@ -8,6 +8,8 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width = "40px"/>
 </div>  
 ## 🛠️ Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp&layout=compact&theme=radical)
 
 
