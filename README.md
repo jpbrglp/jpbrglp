@@ -7,8 +7,13 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width = "40px"/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width = "40px"/>
 </div>  
+# Meu Perfil no GitHub 🚀
+
 ## 🛠️ Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp)
+
+Obrigado por visitar meu perfil! 😊
+
 
 
 
