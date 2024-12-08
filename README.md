@@ -10,6 +10,5 @@
 ## 🛠️ Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp&layout=compact&theme=radical)
 
 
