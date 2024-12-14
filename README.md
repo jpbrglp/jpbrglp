@@ -10,7 +10,6 @@
 
 ## 🛠️ Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp&layout=compact&theme=dark)
-(https://jpbrglp.github.io/hacker-animation/)
 
 Obrigado por visitar meu perfil! 😊
 
