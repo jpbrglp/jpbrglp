@@ -17,10 +17,11 @@ print("Seja bem-vindo(a)!")
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width ="40px"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40px"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px"/>
-  <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jpbrglp_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp=compact&theme=github_dark" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jpbrglp&show_icons=true&theme=github_dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp&layout=compact&theme=github_dark" />
 </p>
+
 </div>  
 
 ## 🛠️ Linguagens Mais Usadas
