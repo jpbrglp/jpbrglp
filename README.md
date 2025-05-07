@@ -1,7 +1,7 @@
-<h1> Olá, sou o João Pedro!!</h1>
+# Olá, sou o João Pedro!! 👋
+
 ```python
 print("Seja bem-vindo(a)!")
-```
 
 <p>Tenho 16 anos.</p>
 <p>Estou cursando Tecnologia da Informação.</p>
