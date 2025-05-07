@@ -1,4 +1,4 @@
-# Olá, sou o João Pedro!! 👋
+# Olá, sou João Pedro!! 👋
 
 ```python
 print("Seja bem-vindo(a)!")
