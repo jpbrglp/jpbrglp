@@ -2,7 +2,7 @@
 
 ```python
 print("Seja bem-vindo(a)!")
-
+````
 <p>Tenho 16 anos.</p>
 <p>Estou cursando Tecnologia da Informação.</p>
 <h2>Áreas de interesse:</h2>
