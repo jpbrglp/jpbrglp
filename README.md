@@ -7,8 +7,8 @@ print("Seja bem-vindo(a)!")
 <p>Estou cursando Tecnologia da Informação.</p>
 <h2>GitHub Status</h2>
 <p align="center" flex-direction="column">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jpbrglp&show_icons=true&theme=github_dark" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp&layout=compact&theme=github_dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jpbrglp&show_icons=true&theme=github_dark" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp&layout=compact&theme=github_dark" />
 </p> 
 
 Obrigado por visitar meu perfil! 😊
