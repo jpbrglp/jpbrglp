@@ -10,7 +10,9 @@ print("Seja bem-vindo(a)!")
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jpbrglp&show_icons=true&theme=github_dark" />
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp&layout=compact&theme=github_dark" />
 </p> 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jpbrglp&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 Obrigado por visitar meu perfil! 😊
 
 
