@@ -11,7 +11,7 @@ print("Seja bem-vindo(a)!")
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrglp&layout=compact&theme=github_dark" />
 </p> 
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=jpbrglp&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+  <img src="https://streak-stats.demolab.com?user=jpbrglp&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 Obrigado por visitar meu perfil! 😊
 
